@@ -1,0 +1,87 @@
+
+#hi{
+  background-image: url("https://img.freepik.com/premium-vector/abstract-color-background-website-banner-poster-card-modern-graphic-design-decoration_120819-934.jpg");   
+
+  background-size: cover;
+  margin: 0;
+  background-repeat: no-repeat;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.head{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+
+}
+
+    ul {
+      
+      margin: 0;
+      padding: 0;
+      overflow:visible;
+      text-decoration: none;
+      
+    }
+    
+    .ui li {
+      float: right;
+      display: flex;
+    }
+    
+    li a {
+      display: inline;
+      color: rgb(209, 41, 41);
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover {
+      background-color: #c24d4d72;
+    border: 1px solid black;
+  }  
+    
+    
+  
+
+
+.ul {
+  margin: 0;
+  padding: 0;
+  float: right;
+  overflow:visible;
+  list-style-type: none;
+  
+}
+
+#bat, #ant, .c{
+  width: 300px;
+  color: rgb(220, 12, 12);
+  animation: mymove 3s infinite;
+}
+
+#anam{
+  
+margin: auto;
+  font-size: 25px;
+  letter-spacing: 10px;
+  border-right: 10px solid  black;
+ 
+  width:350px;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: 
+      typing 3s steps(20),
+      curso.4s step-end infinite alternate;
+
+}
+.A {
+  display: flex;
+  justify-content: space-evenly;
+  
+
+}
+
+
+
